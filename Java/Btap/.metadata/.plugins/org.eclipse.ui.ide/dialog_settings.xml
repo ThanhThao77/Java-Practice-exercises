@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\baitapjava-main\302_2051063709_HaTrungTien_CaTiet3_01"/>
+			<item value="E:\Java\ThucHanhJava"/>
+			<item value="E:\Java\JAVA_Nebeans\Java_Lab02"/>
+			<item value="E:\85_2051060454_NguyenTrongDuc_Ca1_01"/>
+		</list>
+	</section>
+</section>

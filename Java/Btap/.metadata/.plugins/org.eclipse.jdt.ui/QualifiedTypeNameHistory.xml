@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.AbstractAction"/>
+    <fullyQualifiedTypeName name="GUI.HomeGUI"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="demo.gui.DemoJFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.JDialog"/>
+    <fullyQualifiedTypeName name="demo.gui.DemoJDialog"/>
+    <fullyQualifiedTypeName name="javax.swing.JWindow"/>
+    <fullyQualifiedTypeName name="demo.gui.DemoJWindow"/>
+    <fullyQualifiedTypeName name="java.awt.FlowLayout"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="demo.gui.DemoFlowLayout"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="demo.gui.DemoBorderLayout"/>
+    <fullyQualifiedTypeName name="Java31.HoaDonCaPhe"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ForkJoinPool.ManagedBlocker"/>
+    <fullyQualifiedTypeName name="Java32.MyDate"/>
+    <fullyQualifiedTypeName name="Java35.Ngay"/>
+    <fullyQualifiedTypeName name="Java35.TacGia"/>
+    <fullyQualifiedTypeName name="Java35.Sach"/>
+    <fullyQualifiedTypeName name="Exam.Shape"/>
+    <fullyQualifiedTypeName name="java.security.KeyStore.PrivateKeyEntry"/>
+    <fullyQualifiedTypeName name="Exam.Rectangle"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Java36_QLBoPhim.Ngay"/>
+    <fullyQualifiedTypeName name="Java36_QLBoPhim.HangSanXuat"/>
+</qualifiedTypeNameHistroy>
